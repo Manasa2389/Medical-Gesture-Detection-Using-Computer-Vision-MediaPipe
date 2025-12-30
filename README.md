@@ -53,14 +53,10 @@ medical-gesture-detection/
 1️⃣ Clone the Repository
 Copy code
 Bash
-git clone https://github.com/your-username/medical-gesture-detection.git
-cd medical-gesture-detection
-
 2️⃣ Install Dependencies
 Copy code
 Bash
 pip install -r requirements.txt
-
 3️⃣ Run the Project
 Copy code
 Bash
